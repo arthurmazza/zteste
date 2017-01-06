@@ -13,6 +13,7 @@ MAVEN 3
 
 Spring MVC Rest
 Spring Data (JPA / Hibernate) com MySQL
+Jackson
 
 <b>Serviço para cadastrar POIs:</b>
 
