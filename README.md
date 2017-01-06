@@ -2,7 +2,7 @@
 
 Utilizar o arquivo xyinc.sql para criação/inserção do Banco de Dados.
 
-Ferramentas Utilizadas:
+<b>Ferramentas Utilizadas:</b>
 
 IDE Eclipse Neon2
 Java 1.7
