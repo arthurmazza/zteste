@@ -4,15 +4,15 @@ Utilizar o arquivo xyinc.sql para criação/inserção do Banco de Dados.
 
 <b>Ferramentas Utilizadas:</b>
 
-IDE Eclipse Neon2
-Java 1.7
-Tomcat 8.039
+IDE Eclipse Neon2, 
+Java 1.7, 
+Tomcat 8.039, 
 MAVEN 3
 
 <b>Frameworks utilizados:</b>
 
-Spring MVC Rest
-Spring Data (JPA / Hibernate) com MySQL
+Spring MVC Rest, 
+Spring Data (JPA / Hibernate) com MySQL, 
 Jackson
 
 <b>Serviço para cadastrar POIs:</b>
