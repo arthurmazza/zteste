@@ -15,6 +15,20 @@ Spring MVC Rest,
 Spring Data (JPA / Hibernate) com MySQL e 
 Jackson
 
+<b>Para executar:</b>
+
+No eclipse, File >> Import >> Existing Maven Project >> Selecione o projeto.
+
+Selecione o projeto importado e vá em Run >> Run As >> Maven Build.
+
+Coloque os Goals: clean install e clique em Run.
+
+Clique com o segundo botão no projeto e vá em Maven >> Update Project (Atalho Alt+F5).
+
+Marque Force Update of Snapshots/Releases e clique em OK.
+
+Configure o Tomcat e pronto.
+
 <b>Serviço para cadastrar POIs:</b>
 
 http://localhost:8080/xyinc/place/create
